@@ -1,4 +1,0 @@
-flask
-gitpython
-python-dotenv
-anthropic
