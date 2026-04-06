@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2025-01-15",
+    "time_start": "09:00",
+    "time_end": "11:30",
+    "category": "coding",
+    "description": "Built authentication module for client project"
+  },
+  {
+    "date": "2025-01-15",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "category": "learning",
+    "description": "Studied advanced Python decorators and metaclasses"
+  },
+  {
+    "date": "2025-01-16",
+    "time_start": "08:30",
+    "time_end": "12:00",
+    "category": "coding",
+    "description": "Refactored database layer and optimized queries"
+  },
+  {
+    "date": "2025-01-16",
+    "time_start": "19:00",
+    "time_end": "20:30",
+    "category": "fitness",
+    "description": "Evening run - 5km along the river"
+  },
+  {
+    "date": "2025-01-17",
+    "time_start": "09:30",
+    "time_end": "11:00",
+    "category": "writing",
+    "description": "Drafted technical blog post on API design"
+  },
+  {
+    "date": "2025-01-17",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "category": "coding",
+    "description": "Implemented caching strategy with Redis"
+  }
+]
